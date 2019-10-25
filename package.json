@@ -5,7 +5,7 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "devDependencies": {
-    "netlify-lambda": "^1.4.3"
+    "netlify-lambda": "^1.6.3"
   },
   "scripts": {
     "dev": "netlify-lambda serve functions",
